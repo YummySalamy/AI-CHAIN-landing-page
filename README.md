@@ -20,6 +20,8 @@ To run this project, follow these steps:
 
 You can preview the page by visiting https://ai-chain-landing-page.vercel.app/. The page is deployed using Vercel.
 
+[![Video Preview](https://img.youtube.com/vi/4Cf2OLws-VY/0.jpg)](https://youtu.be/4Cf2OLws-VY)
+
 ## Technologies Used
 
 This project was built using the following technologies:
